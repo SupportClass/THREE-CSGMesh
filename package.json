@@ -1,0 +1,25 @@
+{
+  "name": "three-csgmesh",
+  "version": "1.0.0",
+  "description": "Conversion of a CSG - (Constructive Solid Geometry) library for use with modern THREE.js",
+  "main": "three-csg.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SupportClass/THREE-CSGMesh.git"
+  },
+  "author": "Michael Schlacther (manthrax)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SupportClass/THREE-CSGMesh/issues"
+  },
+  "homepage": "https://github.com/SupportClass/THREE-CSGMesh#readme",
+  "dependencies": {
+    "three": "^0.132.2"
+  }
+}
